@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.um.worlh"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "worlH",
+    "packageName": "com.um.worlh",
+    "packageFolder": "com/um/worlh",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "N2ZlNzVjZDliZTNkZDcyZmVlMmQ3Y2Q2YjYwMjg4NGVjNWZiY2I5ZjhkNWQ4ZTA0ZGUwYTZmMTcwMTBiMDVmZGVjMDZjZDM1M2ViN2NmZjhhM2JjY2ZhODRkMDRlY2NkNWE2ZGZmMzY5ZmI1ZjMzMGQ4ODY1ZjY5YWVlZTE4ZGY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1629153651247,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
